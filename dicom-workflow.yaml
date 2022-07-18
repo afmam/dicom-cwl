@@ -1,0 +1,7 @@
+compressedfile: y
+
+output-name: processed
+
+dicom-input:
+  class: Directory
+  path: dicoms
